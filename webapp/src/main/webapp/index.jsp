@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1><font size="6"
+          face="verdana"
+          color="green">
+          GeeksforGeeks! 
+    New user Register for DevOps Learning</font></h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Maven project </h1>
+   <h1> <marqee>Thankyou, Happy Learning Maven project </marqee></h1>
 
   
 </form>
