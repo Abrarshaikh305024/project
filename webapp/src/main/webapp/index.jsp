@@ -1,8 +1,9 @@
 <form action="action_page.php">
   <div class="container">
-    <h1><font size="6"
+    <h1><font size="12"
           face="verdana"
-          color="green">
+          color="red"
+          allign="center">
           GeeksforGeeks! 
     New user Register for DevOps Learning</font></h1>
     <p>Please fill in this form to create an account.</p>
